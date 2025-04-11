@@ -13,10 +13,9 @@ The site used as a case study is **Yallakora** (a football news website).
 | `README.md`         | Project documentation               |
 | `requirements.txt`  | List of required Python libraries   |
 
-## 📸 Screenshot of Output (Sample Data)
+## 📸 Screenshot of Output (Sample Data) :
 
-<!-- Add your screenshot below -->
-![Scraped Output](images/output_sample.png)
+![Scraped Output](https://github.com/Samir2022y/web_scraping_from_static_web/blob/e03fd63694f7dc8764b4e4805293bfe03ad5466b/Output.png)
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
