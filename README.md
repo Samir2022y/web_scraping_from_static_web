@@ -15,7 +15,7 @@ The site used as a case study is **Yallakora** (a football news website).
 
 ## 📸 Screenshot of Output (Sample Data) :
 
-![Scraped Output](https://github.com/Samir2022y/web_scraping_from_static_web/blob/e03fd63694f7dc8764b4e4805293bfe03ad5466b/Output.png)
+![Scraped Output](https://github.com/Samir2022y/web_scraping_from_static_web/blob/b4908bf6fc044279395a10313835ba4446d50480/Result.png)
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
